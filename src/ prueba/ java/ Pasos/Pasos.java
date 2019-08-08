@@ -1,4 +1,4 @@
-package Prueba.Prueba;
+package Pasos
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
